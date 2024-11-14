@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfits>
+	<!-- Female outfits -->
+	<outfit type="0" looktype="511" name="Trainer" premium="no" unlocked="yes" enabled="yes" />
+	<outfit type="0" looktype="521" name="Fisher" premium="no" unlocked="yes" enabled="yes" />
+
+	<!-- Male outfits -->
+	<outfit type="1" looktype="510" name="Trainer" premium="no" unlocked="yes" enabled="yes" />
+	<outfit type="1" looktype="520" name="Fisher" premium="no" unlocked="yes" enabled="yes" />
+</outfits>
